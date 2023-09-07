@@ -1,0 +1,42 @@
+{
+    "food": [
+        ["#foodlover", "#yumtastic", "#foodiegram", "#deliciouslygood", "#foodphotographylove"],
+        ["#foodgasmic", "#tastytreats", "#foodbloggerslife", "#mouthwatering", "#foodcomaalert"],
+        ["#hungryforfood", "#foodstagrammer", "#foodcravings", "#foodielifestyle", "#flavorful"],
+        ["#foodpicsdaily", "#foodobsession", "#culinarydelights", "#foodiefriends", "#yummylicious"],
+        ["#foodaddict", "#foodielife", "#foodshare", "#foodisfuel", "#foodforthought"],
+        ["#foodography", "#foodpics", "#foodislife", "#foodgram", "#foodphotographer"]
+    ],
+    "sports": [
+        ["#sportslover", "#sportsenthusiast", "#sportsaddict", "#sportsmania", "#sportinglife"],
+        ["#fitnessgoals", "#sportsphotography", "#sportsworld", "#sportyvibes", "#sportslife"],
+        ["#sportsevents", "#sportschampion", "#sportsfans", "#sportsinspiration", "#sportingevents"],
+        ["#sportsjunkie", "#sportsmotivation", "#sportsaction", "#sportslove", "#sportsfanatics"],
+        ["#sportscommunity", "#sportscompetition", "#sportsspirit", "#sportsentertainment", "#sportsstyle"],
+        ["#sportsandfitness", "#sportsperformance", "#sportsfreak", "#sportsfun", "#sportsmanship"]
+    ],
+    "art": [
+        ["#artlover", "#artenthusiast", "#artaddict", "#artpassion", "#artisticlife"],
+        ["#artgallery", "#artphotography", "#artworld", "#artisticvibes", "#artlife"],
+        ["#artevents", "#artisticexpression", "#artfans", "#artinspiration", "#artisticcreations"],
+        ["#artjunkie", "#artmotivation", "#artisticexpression", "#artlove", "#artfanatics"],
+        ["#artcommunity", "#artexhibition", "#artspirit", "#artentertainment", "#artstyle"],
+        ["#artandcreativity", "#artperformance", "#artfreak", "#artfun", "#artisticmind"]
+    ],
+    "best_quotes": [
+        ["#bestquotes", "#quotesoftheday", "#quoteoftheday", "#inspirationalquotes", "#motivationalquotes"],
+        ["#lifequotes", "#quotestoliveby", "#positivequotes", "#wisdomquotes", "#successquotes"],
+        ["#lovequotes", "#happinessquotes", "#famousquotes", "#beautifulquotes", "#thoughtfulquotes"],
+        ["#wordsofwisdom", "#deepquotes", "#bestquoteever", "#dailyquotes", "#encouragementquotes"],
+        ["#inspiringquotes", "#quotechallenge", "#powerfulquotes", "#favoritequotes", "#quotestagram"],
+        ["#quotesforlife", "#quoteofday", "#quoteoftheweek", "#quotestoremember", "#quotesandsayings"]
+    ],
+    "wedding": [
+        ["#weddinginspiration", "#weddingvibes", "#weddingdreams", "#weddingday", "#weddingphotography"],
+        ["#weddingcelebration", "#weddinggoals", "#weddinglove", "#weddingmoments", "#weddingstyle"],
+        ["#bridetobe", "#groomtobe", "#weddingdecor", "#weddingceremony", "#weddingflowers"],
+        ["#weddingparty", "#weddingvenue", "#weddingdetails", "#weddingdresses", "#weddingcake"],
+        ["#weddingplanning", "#weddingfashion", "#weddingideas", "#weddingrings", "#weddinghairstyles"],
+        ["#weddingbells", "#weddinginspo", "#weddinginvitation", "#weddingmakeup", "#weddinggown"]
+    ]
+}
